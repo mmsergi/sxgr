@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sexy</string>
+    <string name="cargando">Charging...</string>
+    <string name="noconexion">Check your connection and restart the app</string>
+    <string name="puntos">Points</string>
+    <string name="compartir">SHARE</string>
+    <string name="compartirintermedio">Share image on</string>
+    <string name="compartirwhatsapp">More images on</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sexy</string>
+    <string name="cargando">Cargando más...</string>
+    <string name="compartir">COMPARTIR</string>
+    <string name="compartirintermedio">Compartir la imagen en</string>
+    <string name="compartirwhatsapp">Más imágenes en</string>
+    <string name="noconexion">Comprueba tu conexión y reinicia la aplicación</string>
+    <string name="puntos">Puntos</string>
+</resources>
